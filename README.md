@@ -1,6 +1,6 @@
 ## Spectral-Disentangling
 
-#### A collection of scripts to disentangle spectroscopic binary stars spectra
+### _A collection of scripts to disentangle spectroscopic binary stars spectra_
 
 Here are a serie of scripts I developed in order to process spectra in the standard fits format, with the aim to test and apply the algoritm of spectral disentangling based in the algoritm developed by Marchenko et al. (1998) and succesfully applied by González and Levato (2006). 
 
